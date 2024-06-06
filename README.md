@@ -1,5 +1,5 @@
 # Netflix-clone
-**Netflix Clone**
+
 ================
 
 A web application clone of Netflix, built using HTML, CSS, and Figma.
